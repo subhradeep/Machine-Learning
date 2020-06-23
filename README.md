@@ -4,7 +4,6 @@ This repository is a machine learning project repository. It includes Data Clean
 
 
 Requirements:
-
 Python 3+
 Jupyter Notebook
 Python libraries
